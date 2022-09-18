@@ -14,7 +14,7 @@ body{
     }
     
 .main{
-        background-size:70px 70px;
+    background-size:70px 70px;
     background-image:linear-gradient(to right, var(--line) 1px, transparent 1px), linear-gradient(to bottom, var(--line) 1px, transparent 1px);
     margin:0px;
     max-height:100vh;
