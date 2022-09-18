@@ -5,8 +5,6 @@
 }
 
 body{
-    background-size:70px 70px;
-    background: var(--background)
-    max-height:100vh;
-    min-width:1500px;
+    background: var(--background);
+    color: #E0FAFA;
     }
