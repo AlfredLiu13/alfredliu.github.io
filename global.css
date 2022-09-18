@@ -9,9 +9,7 @@
     src: url(/fonts//fonts/FredokaOne-Regular.ttf);
 }
 
-*:focus{
-
-
 body{
     background: var(--background);
     }
+    
