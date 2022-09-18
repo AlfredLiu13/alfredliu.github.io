@@ -28,3 +28,8 @@ body{
     background-color:var(--background);
     border:0!important;
 }
+
+
+a{
+    color:#000000
+}
