@@ -13,7 +13,23 @@ body{
     background: var(--background);
     }
 
-.header{
+.header {
+    position:relative;
+    border: 1px;
+    border-style:solid;
+    border-color:var(--line);
+    background:var(--background);
+    width: 419px;
+    height: 279px;
+    margin-top:calc(70px * 1);
+    margin-left:calc(70px * 1);
+    overflow-y:auto;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+}
+
+.title{
     color:#000000;
     font-size:16pt;
     font-weight:bold;
