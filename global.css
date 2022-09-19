@@ -58,7 +58,7 @@ a:active{
 }
 
 .ascii-art-background{
-    font-size:calc(100vw/1125);
+    font-size:calc(100vw/300);
     font-family:monospace;
     white-space:pre;
     margin-top:20px;
