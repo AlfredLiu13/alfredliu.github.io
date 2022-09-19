@@ -51,6 +51,7 @@ a:active{
 .ascii-wrap{
     margin-top:75px;
     margin-left:75px;
+    margin-right:200px;
     padding:0px;
     display:flex;
     justify-content:space-between;
