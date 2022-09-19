@@ -49,6 +49,7 @@ a:active{
 }
 
 .ascii-wrap{
+    display:flex;
     justify-content:space-between;
 }
 
