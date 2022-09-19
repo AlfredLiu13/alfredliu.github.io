@@ -41,15 +41,15 @@ a{
 
 .header{
     z-index:1;
-    padding-right:24px;
-    padding-left:24px;
-    padding-top:19px;
-    padding-bottom:20px;
+    padding-right:15px;
+    padding-left:15px;
+    padding-top:15px;
+    padding-bottom:0px;
     display:flex;
     justify-content:space-between;
     position:sticky;
     background:var(--background);
-    top:0; /* required for sticky */
+    top:0;
 }
 
 .title{
