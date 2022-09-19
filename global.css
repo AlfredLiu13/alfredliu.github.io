@@ -39,6 +39,19 @@ a{
     justify-content:space-between;
 }
 
+.header{
+    z-index:1;
+    padding-right:24px;
+    padding-left:24px;
+    padding-top:19px;
+    padding-bottom:20px;
+    display:flex;
+    justify-content:space-between;
+    position:sticky;
+    background:var(--background);
+    top:0; /* required for sticky */
+}
+
 .title{
     color:#000000;
     font-family:Fredoka One;
