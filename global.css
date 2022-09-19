@@ -1,6 +1,7 @@
 :root{
     --bluebackground:AliceBlue;
     --line:Grey;
+    --linkhover:OliveDrab;
 }
 
 @font-face {
@@ -21,9 +22,24 @@ p{
 }
 
 
-a{
+a:link{
     color:#000000;
-    text-decoration: none;
+    text-decoration:none;
+}
+
+a:visted{
+    color:#000000;
+    text-decoration:none;
+}
+
+a:hover{
+    color:var(--linkhover);
+    text-decoration:none;
+}
+
+a:active{
+    color:var(--linkhover);
+    text-decoration:none;
 }
 
 .homebox {
