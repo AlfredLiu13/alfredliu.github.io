@@ -60,7 +60,7 @@ a:active{
 }
 
 .ascii-art-background{
-    font-size:calc(100vw/300);
+    font-size:0.3333333333333333333vw;
     font-family:monospace;
     white-space:pre;
     margin-top:20px;
