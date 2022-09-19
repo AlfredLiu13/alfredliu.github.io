@@ -12,6 +12,7 @@ body{
     background-color:var(--bluebackground);
     margin:0px;
     border:0px;
+    padding:0px;
     }
 
 p{
@@ -69,19 +70,19 @@ a{
     font-family:Lato;
     font-size:14pt;
     font-style:Light;
-    padding:0px;
     margin-top:0px;
     margin-botton:0px;
     margin-left:15px;
     margin-right:15px;
+    padding:0px;
 }
 
 .footer{
-    padding:0px;
     margin-top:0px;
     margin-bottom:0px;
     margin-left:15px;
     margin-right:15px;
+    padding:0px;
 }
 
 .menu{
