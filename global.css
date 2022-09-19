@@ -27,7 +27,7 @@ a{
     border: 1px;
     border-style: solid;
     border-color: var(--line);
-    background:var(--background);
+    background-color:var(--background);
     width:420px;
     height:280px;
     margin-top: 75px;
