@@ -41,7 +41,7 @@ a{
 
 .header{
     z-index:1;
-    margin-top:15px;
+    margin-top:10px;
     margin-bottom:0px;
     margin-right:15px;
     margin-left:15px;
@@ -72,4 +72,22 @@ a{
     margin-botton:0px;
     margin-left:15px;
     margin-right:15px;
+}
+
+.footer{
+    z-index:1;
+    padding:0px;
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-left:15px;
+    margin-right:15px;
+}
+
+.menu{
+    color:#000000;
+    font-family:Reem Kufi Fun;
+    font-size:15pt;
+    font-weight:bold;
+    margin:0px;
+    padding:0px;
 }
