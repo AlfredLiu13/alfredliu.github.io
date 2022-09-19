@@ -68,6 +68,8 @@ a:active{
     margin-top:0px;
     margin-bottom:0px;
     padding:0px;
+    display:flex;
+    flex-wrap: wrap;
     vertical-align:bottom;
 }
 
