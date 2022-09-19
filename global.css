@@ -43,8 +43,7 @@ a:active{
 }
 
 .ascii-art{
-    font-family:monospace;
-    white-space:pre;
+    font-size:5pt;
     align-self:flex-end;
 }
 
