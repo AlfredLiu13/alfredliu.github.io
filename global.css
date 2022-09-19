@@ -29,8 +29,8 @@ a{
     border-style: solid;
     border-color: var(--line);
     background:var(--background);
-    width: 420px;
-    height: 280px;
+    width:420px;
+    height:280px;
     margin-top: 75px;
     margin-left:75px;
     overflow-y:auto;
@@ -56,18 +56,18 @@ a{
     font-family:Fredoka One;
     font-size:18pt;
     font-weight:bold;
-    margin: 0px;
+    margin:0px;
 }
 
 .main{
     color:#000000;
     font-family:Lato;
     font-size:14pt;
-    font-weight:"Light 300";
+    font-style:Light;
     padding-top:0px;
     padding-bottom:0px;
-    margin-top: 0px;
-    margin-botton: 0px;
+    margin-top:0px;
+    margin-botton:0px;
     margin-left:15px;
     margin-right:15px;
 }
