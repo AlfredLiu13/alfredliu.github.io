@@ -13,7 +13,7 @@ body{
     background: var(--background);
     }
 
-.box {
+.homebox {
     position:relative;
     border: 1px;
     borde-style: solid;
