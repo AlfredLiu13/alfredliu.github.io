@@ -16,7 +16,7 @@ body{
 .homebox {
     position:relative;
     border: 1px;
-    borde-style: solid;
+    border-style: solid;
     border-color: var(--line);
     background:var(--background);
     width: 420px;
