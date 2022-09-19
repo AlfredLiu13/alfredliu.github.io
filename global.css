@@ -81,6 +81,16 @@ a:active{
     color:#000000;
     font-family:Reem Kufi Fun;
     font-size:15pt;
+    font-weight:600;
+    margin:0px;
+    padding:0px;
+}
+
+.subtitle{
+    color:#000000;
+    font-family:Reem Kufi Fun;
+    font-size:15pt;
+    font-weight:400;
     margin:0px;
     padding:0px;
 }
