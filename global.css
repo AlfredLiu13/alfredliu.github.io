@@ -34,7 +34,7 @@ body{
     font-family:Fredoka One;
     font-size:18pt;
     font-weight:bold;
-    margin: 5px
+    margin: 15px
 }
 
 .main{
@@ -42,9 +42,9 @@ body{
     font-family:Lato;
     font-size:14pt;
     font-weight:"Light 300";
-    padding-top:7px;
-    padding-bottom:7px;
-    margin:10px; 
+    padding-top:0px;
+    padding-bottom:0px;
+    margin:15px; 
 }
 
 
