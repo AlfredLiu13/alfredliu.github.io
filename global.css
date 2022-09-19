@@ -48,7 +48,16 @@ a:active{
     white-space:pre;
 }
 
-.ascii-wrap{
+.ascii-art-wrap{
+    margin-top:75px;
+    margin-left:75px;
+    margin-right:200px;
+    padding:0px;
+    display:flex;
+    flex-direction:row;
+}
+
+.ascii-art-background{
     margin-top:75px;
     margin-left:75px;
     margin-right:200px;
