@@ -61,8 +61,6 @@ a{
     font-family:Reem Kufi Fun;
     font-size:15pt;
     font-weight:bold;
-    margin:0px;
-    padding:0px;
 }
 
 .main{
@@ -93,6 +91,4 @@ a{
     list-style-type:none;
     display:flex;
     justify-content:space-between;
-    margin:0px;
-    padding:0px;
 }
