@@ -9,7 +9,9 @@
 }
 
 body{
-    background: var(--background);
+    background-color:var(--bluebackground);
+    margin:0px;
+    border:0px;
     }
 
 p{
