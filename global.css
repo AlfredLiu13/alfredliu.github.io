@@ -45,7 +45,7 @@ a:active{
 .ascii-art{
     font-family:monospace;
     white-space:pre;
-    text-align:left;
+    align-self:flex-end;
 }
 
 .homebox {
