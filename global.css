@@ -15,7 +15,9 @@ body{
 
 .box {
     position:relative;
-    border: 1px solid var(--line);
+    border: 1px;
+    borde-style: solid;
+    border-color: var(--line);
     background:var(--background);
     width: 420px;
     height: 280px;
