@@ -34,6 +34,7 @@ a{
     height:280px;
     margin-top: 75px;
     margin-left:75px;
+    padding:0px;
     overflow-y:auto;
     display:flex;
     flex-direction:column;
@@ -88,6 +89,9 @@ a{
     font-family:Reem Kufi Fun;
     font-size:15pt;
     font-weight:bold;
+    list-style-type:none;
+    display:flex;
+    justify-content:space-between;
     margin:0px;
     padding:0px;
 }
