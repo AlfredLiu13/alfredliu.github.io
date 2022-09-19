@@ -47,6 +47,7 @@ a:active{
 .ascii-art{
     font-size:5pt;
     font-family:monospace;
+    margin:0px;
     white-space:pre;
 }
 
