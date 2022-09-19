@@ -1,7 +1,6 @@
 : root{
-    --background:#E0FAFA;
-    --highlight:grey;
-    --line:grey;
+    --background:AliceBlue;
+    --line:Grey;
 }
 
 @font-face {
