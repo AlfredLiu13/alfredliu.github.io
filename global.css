@@ -62,9 +62,8 @@ a:active{
     font-family:monospace;
     white-space:pre;
     margin-top:20px;
-    margin-left:75px;
-    margin-right:0;
     padding:0px;
+    width:100vw;
     display:flex;
 }
 
