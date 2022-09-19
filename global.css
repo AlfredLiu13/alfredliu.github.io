@@ -13,14 +13,12 @@ body{
     background: var(--background);
     }
 
-.header {
+.box {
     position:relative;
-    border: 1px;
-    border-style:solid;
-    border-color:var(--line);
+    border: 1px solid var(--line);
     background:var(--background);
-    width: 419px;
-    height: 279px;
+    width: 420px;
+    height: 280px;
     margin-top:calc(70px * 1);
     margin-left:calc(70px * 1);
     overflow-y:auto;
@@ -38,6 +36,7 @@ body{
 
 .main{
     color:#000000;
+    font-family:Lato;
     font-size:14pt;
     font-weight:light 300;
     padding-top:10px;
