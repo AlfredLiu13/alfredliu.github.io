@@ -49,9 +49,11 @@ a:active{
 }
 
 .ascii-wrap{
+    margin-top:75px;
+    margin-left:75px;
+    padding:0px;
     display:flex;
     justify-content:space-between;
-    margin-left: 100px
 }
 
 .homebox {
@@ -62,9 +64,6 @@ a:active{
     background-color:var(--bluebackground);
     width:400px;
     height:265px;
-    margin-top: 75px;
-    margin-left:75px;
-    padding:0px;
     overflow-y:auto;
     display:flex;
     flex-direction:column;
