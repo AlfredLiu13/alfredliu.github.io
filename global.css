@@ -45,7 +45,7 @@ a{
 .header{
     z-index:1;
     margin-top:0px;
-    margin-bottom:15px;
+    margin-bottom:0px;
     margin-right:15px;
     margin-left:15px;
     padding:0px;
@@ -70,7 +70,7 @@ a{
     font-family:Lato;
     font-size:14pt;
     font-style:Light;
-    margin-top:0px;
+    margin-top:15px;
     margin-botton:0px;
     margin-left:15px;
     margin-right:15px;
