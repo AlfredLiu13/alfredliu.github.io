@@ -46,7 +46,8 @@ a:active{
     font-size:5pt;
     font-family:monospace;
     white-space:pre;
-    margin-top:15px;
+    margin-top:10px;
+    margin-bottom:0px;
 }
 
 .homebox {
