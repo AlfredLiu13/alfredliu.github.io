@@ -58,12 +58,11 @@ a:active{
 }
 
 .ascii-art-background{
-    margin-top:75px;
+    margin-top:20px;
     margin-left:75px;
-    margin-right:200px;
+    margin-right:0;
     padding:0px;
     display:flex;
-    flex-direction:row;
 }
 
 .homebox {
