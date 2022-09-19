@@ -26,8 +26,8 @@ a{
     position:relative;
     border: 1px;
     border-style:solid;
-    border-color:Grey;
-    background-color:AliceBlue;
+    border-color:var(--line);
+    background-color:var(--background);
     width:420px;
     height:280px;
     margin-top: 75px;
