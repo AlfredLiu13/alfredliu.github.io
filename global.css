@@ -21,8 +21,8 @@ body{
     background:var(--background);
     width: 420px;
     height: 280px;
-    margin-top:calc(70px * 1);
-    margin-left:calc(70px * 1);
+    margin-top: 75px;
+    margin-left:75px;
     overflow-y:auto;
     display:flex;
     flex-direction:column;
