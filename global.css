@@ -1,5 +1,5 @@
-: root{
-    --background:AliceBlue;
+:root{
+    --bluebackground:AliceBlue;
     --line:Grey;
 }
 
@@ -27,7 +27,7 @@ a{
     border: 1px;
     border-style:solid;
     border-color:var(--line);
-    background-color:var(--background);
+    background-color:var(--bluebackground);
     width:420px;
     height:280px;
     margin-top: 75px;
