@@ -11,7 +11,11 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Reem Kufi Fun">
-        <script src="jquery-3.4.1.min.js"></script>
+        <script src="jquery.js"></script>
+        <script> 
+            $(function(){
+                $("#ascii-art-tree").load("/ascii-art/tree.html"); 
+            });</script> 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <title>alfred</title>
     </head>
@@ -36,8 +40,7 @@
                 </ul>
             </div>
         </div>
-        <div class="ascii-art">
-        </div>
+        <div id="ascii-art-tree"> </div>
     </body>
     
 </html>
