@@ -58,6 +58,9 @@ a:active{
 }
 
 .ascii-art-background{
+    font-size:5pt;
+    font-family:monospace;
+    white-space:pre;
     margin-top:20px;
     margin-left:75px;
     margin-right:0;
