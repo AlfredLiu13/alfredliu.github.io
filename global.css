@@ -25,9 +25,9 @@ a{
 .homebox {
     position:relative;
     border: 1px;
-    border-style: solid;
-    border-color: var(--line);
-    background-color:var(--background);
+    border-style:solid;
+    border-color:Grey;
+    background-color:AliceBlue;
     width:420px;
     height:280px;
     margin-top: 75px;
