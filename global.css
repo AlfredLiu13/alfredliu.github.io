@@ -80,6 +80,21 @@ a:active{
     flex-direction:column;
 }
 
+.box {
+    position:relative;
+    border: 1px;
+    border-style:solid;
+    border-color:var(--line);
+    background-color:var(--bluebackground);
+    width:400px;
+    height:265px;
+    margin-top:75px;
+    margin-left:75px;
+    overflow-y:auto;
+    display:flex;
+    flex-direction:column;
+}
+
 .header{
     z-index:1;
     margin-top:15px;
